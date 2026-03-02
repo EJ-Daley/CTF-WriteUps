@@ -19,7 +19,7 @@
 
 ## Investigation
 Open image file in HxD to view metadata, Base64 code can be found at the end of the file  
-![Screenshot](./files/rescue_wizard-base64.png)
+![Screenshot](./files/rescue_wizard-base64.png)  
 When decodded it says "use the search function in pastebin".
 
 Additionally, there are mentions to Pickaxe_Pete in the Exif Data, I found it in the bytes because why do things the easy way.  
