@@ -13,10 +13,11 @@
 
 ## Investigation
 There was a Post-it note taped to the back of a sideways table, plainly visible in the nearby window's reflection.
-put image when no longer lazy
+![Screenshot](./files/find_me-table.jpg)
 
 
 The flag is written on the note, nothing fancy.
+![Screenshot](./files/find_me-note.jpg)
 
 
 ---
