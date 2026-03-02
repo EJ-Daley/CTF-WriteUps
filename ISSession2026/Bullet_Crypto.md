@@ -26,11 +26,11 @@ The fun way involves beating 10 waves of a bullet hell game, then decrypting a c
 9. From Hex, then reversed
 10. Either you dont need to decipher a code on this round or I forgot to make a note of it.
 
-The alternative solution is to ctrl+f search FantasyCTF in the source code since the flag is in plaintext
-put image
+The alternative solution is to ctrl+f search FantasyCTF in the source code since the flag is in plaintext  
+![Screenshot](./files/bullet_crypto-flag.png)
 
-Additionally you can find the case then encodes the flags which tells you how to decrypt all if you didnt feel like figuring it out.
-put image
+Additionally you can find the case then encodes the flags which tells you how to decrypt all if you didnt feel like figuring it out.  
+![Screenshot](./files/bullet_crypto-case.png)
 
 ---
 
