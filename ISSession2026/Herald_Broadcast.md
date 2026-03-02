@@ -43,7 +43,7 @@ The user's only repository is called Royal Degree and has a simple readme that r
 >
 >"The decree was sealed before it was published. Look to the past."
 
-The message hints that it likely has been removed, the repository has 3 commits on record
+The message hints that it likely has been removed, the repository has 3 commits on record   
 ![Screenshot](./files/herald_broadcast-commits.png)
 
 The oldest commit is labelled "Add classified decree" and inside there is a decree including the flag
