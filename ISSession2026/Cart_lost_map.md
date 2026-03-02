@@ -13,13 +13,13 @@ Flag.
 
 
 ## Challenge Files
-put an image here when you stop being lazy
+![Screenshot](./files/cart_lost_map-lost_map.jpg)
 
 ---
 
 ## Investigation
 The attack started with a reverse image search of the provided file.
-put an image here when you stop being lazy
+![Screenshot](./files/cart_lost_map-tineye.png)
 
 After scrolling through matches, it became clear it was of the Eilean Donan Castle.
 Sample link - https://en.wikipedia.org/wiki/File:Eilean_Donan_Castle%2C_Scotland_-_Jan_2011.jpg
