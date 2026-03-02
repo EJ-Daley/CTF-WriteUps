@@ -1,12 +1,9 @@
 # CTF Write Up
 
 ## Challenge Info
-**Name:** find me?
-
-**Category:** Wizard Games
-
+**Name:** find me?  
+**Category:** Wizard Games  
 **Event:** ISSessions 2026  
-
 **Completed:** Yes
 
 ## Challenge Description
