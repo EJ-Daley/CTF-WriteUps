@@ -1,7 +1,7 @@
 # CTF Write Up
 
 ## Challenge Info
-**Name:** Rescue of the Wizard
+**Name:** Rescue of the Wizard  
 **Category:** OSINT  
 **Event:** ISSessions 2026  
 **Completed:** No
