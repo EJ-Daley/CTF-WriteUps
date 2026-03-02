@@ -1,7 +1,7 @@
 # CTF Write Up
 
 ## Challenge Info
-**Name:** The Herald's Forgotten Broadcast
+**Name:** The Herald's Forgotten Broadcast  
 **Category:** OSINT  
 **Event:** ISSessions 2026  
 **Completed:** Yes  
