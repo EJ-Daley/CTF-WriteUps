@@ -18,17 +18,14 @@
 ---
 
 ## Investigation
-Open image file in HxD to view metadata
-put an image here when you stop being lazy
-
-Base64 code can be found at the end of the file
+Open image file in HxD to view metadata, Base64 code can be found at the end of the file
 ![Screenshot](./files/rescue_wizard-base64.png)
-When decrypted it says "use the search function in pastebin"
+When decodded it says "use the search function in pastebin".
 
 Additionally, there are mentions to Pickaxe_Pete in the Exif Data, I found it in the bytes because why do things the easy way.
 ![Screenshot](./files/rescue_wizard-exif.png)
 
-When searching for pickaxe pete in pastebin a set of messages can be found - https://pastebin.com/Peb52UPd
+When searching for pickaxe pete in pastebin, a set of messages can be found - https://pastebin.com/Peb52UPd
 
 This leads us to the pastebin account Gnomey88 - https://pastebin.com/u/gnomey88
 
