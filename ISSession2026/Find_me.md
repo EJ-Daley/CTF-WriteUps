@@ -2,8 +2,11 @@
 
 ## Challenge Info
 **Name:** find me?
+
 **Category:** Wizard Games
+
 **Event:** ISSessions 2026  
+
 **Completed:** Yes
 
 ## Challenge Description
