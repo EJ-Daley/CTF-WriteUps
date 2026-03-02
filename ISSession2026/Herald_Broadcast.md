@@ -32,8 +32,7 @@ Track down his identity and recover the sealed decree.
 Free Hint: The herald's name is also his identity on the world's largest code forge.
 
 ## Investigation
-Look up FantasyCTF-Herald-2026 in github, there is a user.
-put an image here when you stop being lazy
+Look up FantasyCTF-Herald-2026 in github, there is a user - https://github.com/FantasyCTF-Herald-2026
 
 The user's only repository is called Royal Degree and has a simple readme that reads
 >The Royal Herald's archive of public proclamations.
@@ -45,7 +44,7 @@ The user's only repository is called Royal Degree and has a simple readme that r
 >"The decree was sealed before it was published. Look to the past."
 
 The message hints that it likely has been removed, the repository has 3 commits on record
-put an image here when you stop being lazy
+![Screenshot](./files/hearld_broadcast-commits.png)
 
 The oldest commit is labelled "Add classified decree" and inside there is a decree including the flag
 >=== ROYAL DECREE #7 — FOR THE EYES OF THE KING'S COUNCIL ONLY ===
