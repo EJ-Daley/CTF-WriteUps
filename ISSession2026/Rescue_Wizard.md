@@ -8,12 +8,12 @@
 
 ## Challenge Description
 >hey,
->so, i may have casted a spell or two on some wrong people and i ended up getting kidnapped by a bunch of little gnomes (don't even ask how). i am being kept hostage, please rescue me. they are asking for a ransom of 1500 >GP, >but im pretty sure you can figure another way out of this right? excuse my poor language, these evil creatures are forcing me to write this and it creates a lot of pressure.
+>so, i may have casted a spell or two on some wrong people and i ended up getting kidnapped by a bunch of little gnomes (don't even ask how). i am being kept hostage, please rescue me. they are asking for a ransom of 1500 >GP, but im pretty sure you can figure another way out of this right? excuse my poor language, these evil creatures are forcing me to write this and it creates a lot of pressure.
 >-april the wizard
 >Flag format: FantasyCTF{one_word_location_where_the_wizard_is_held}
 
 ## Challenge Files
-put an image here when you stop being lazy
+![Screenshot](./files/rescue_wizard-start_file.jpg)
 
 ---
 
