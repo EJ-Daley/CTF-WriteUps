@@ -1,10 +1,10 @@
 # CTF Write Up
 
 ## Challenge Info
-**Name:** Generic Bullet Hell Crypto Game
-**Category:** Wizard Games 
+**Name:** Generic Bullet Hell Crypto Game  
+**Category:** Wizard Games  
 **Event:** ISSessions 2026  
-**Completed:** Yes
+**Completed:** Yes  
 
 ## Challenge Description
 >can you beat the game?
